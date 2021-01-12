@@ -22,7 +22,22 @@ MorpheesPlug is a toolkit to prototype shape-changing interfaces, which are phys
 <li>Daniel Ashbrook</li>
 </ul>
 
-## Usage
+## Folders
+<ul>
+  <li>Module_Eagle: control module board Eagle files.</li>
+  <li>Module_Enclosure: Enclosure stl files for control module.</li>
+  <li>MorpheesPlug: Autodesk Fusion 360 add-in to design widgets.</li>
+</ul>
+
+## How to use the MorpheesPlug Autodesk Fusion 360 add-in
+<ol>
+<li>Place MorpheesPlug folder under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/ (Mac).</li>
+  <li>Launch Fution 360.</li>
+  <li>Go to Tools panel then click ADD-INS icon.</li>
+  <li>Click MorpheesPlug Script under My Scripts.</li>
+  <li>Click Run.</li>
+  <li>Choose a widget and change the parameters as needed.</li>
+</ol>
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
