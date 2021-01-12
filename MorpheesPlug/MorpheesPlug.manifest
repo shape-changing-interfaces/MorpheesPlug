@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"517b9ff3-6d42-4cd3-87d9-0fdc8f9987ae",
+	"author":	"Hyunyoung Kim",
+	"description":	{
+		"":	"MorpheesPlug add-in for Fusion 360"
+	},
+	"version":	"",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
