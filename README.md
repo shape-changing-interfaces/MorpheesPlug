@@ -32,7 +32,7 @@ MorpheesPlug is a toolkit to prototype shape-changing interfaces, which are phys
 ## How to use the MorpheesPlug Autodesk Fusion 360 add-in
 <ol>
   <li>Place MorpheesPlug folder under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/ (Mac).</li>
-  <li>Launch Fution 360.</li>
+  <li>Launch Fusion 360.</li>
   <li>Go to Tools panel then click ADD-INS icon.</li>
   <li>Click MorpheesPlug Script under My Scripts.</li>
   <li>Click Run.</li>
