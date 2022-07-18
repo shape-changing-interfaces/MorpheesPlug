@@ -31,16 +31,14 @@ MorpheesPlug is a toolkit to prototype shape-changing interfaces, which are phys
   <li>MorpheesPlug: Autodesk Fusion 360 add-in to design widgets.</li>
 </ul>
 
-## How to use the MorpheesPlug Autodesk Fusion 360 add-in
-<ol>
-  <li>Download and place the [MorpheesPlug subfolder](https://github.com/shape-changing-interfaces/MorpheesPlug/tree/main/MorpheesPlug) under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/ (Mac).</li>
-  <li>Launch Fusion 360.</li>
-  <li>Go to Tools panel then click ADD-INS icon.</li>
-  <li>Click MorpheesPlug Script under My Scripts.</li>
-  <li>Click Run.</li>
-  <li>Choose a widget and change the parameters as needed.</li>
-  <li>Note: If you want to show the script icon on your Fusion 360, put the folder under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/ (Mac). The icon will show up under Tools/Add-ins arrow. You can click the icon to launch the script.</li>
-</ol>
+## How to install the MorpheesPlug add-in on Autodesk Fusion 360
+1. Download and place the [MorpheesPlug subfolder](./MorpheesPlug) under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Scripts/ (Mac).
+2. Launch Fusion 360.
+3. Go to Tools panel then click ADD-INS icon.
+4. Click MorpheesPlug Script under My Scripts.
+5. Click Run.
+6. Choose a widget and change the parameters as needed.
+Note: If you want to show the script icon on your Fusion 360, put the folder under ~/Library/Application Support/Autodesk/Autodesk Fusion 360/API/AddIns/ (Mac). The icon will show up under Tools/Add-ins arrow. You can click the icon to launch the script.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
